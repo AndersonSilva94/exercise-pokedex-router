@@ -7,6 +7,7 @@ class Header extends Component {
       <header className="Header">
         <nav>
           <Link to="/" >Pokedex</Link>
+          <Link to="/about" >About</Link>
         </nav>
       </header>
     );
